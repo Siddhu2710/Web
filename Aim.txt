@@ -1,3 +1,5 @@
 This is for website
 
-1. Learn basics of css and js
+1. Learn basics of html
+
+2. Learn basics of css and js
